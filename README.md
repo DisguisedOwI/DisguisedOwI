@@ -1,6 +1,10 @@
 
 <h2 align="left">Hi 👋! My Disguised Owl</h2>
 
+<div align="Left">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=DisguisedOwI.DisguisedOwI&"  />
+</div>
+
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/disguised.owl) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@DisguisedOwl) 
 
 
