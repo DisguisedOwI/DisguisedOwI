@@ -18,8 +18,8 @@
 
 ##
 
-<img align="right" height="200" width="200" src="https://github.com/user-attachments/assets/9e9bc27f-5829-4287-8579-a8c9cec652d5"/>
+<img align="right" height="250" width="250" src="https://github.com/user-attachments/assets/9e9bc27f-5829-4287-8579-a8c9cec652d5"/>
 
 ![](https://github-readme-stats.vercel.app/api?username=DisguisedOwI&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=DisguisedOwI&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DisguisedOwI&theme=catppuccin_mocha&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=DisguisedOwI&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
