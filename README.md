@@ -27,7 +27,3 @@
 ![](https://github-readme-stats.vercel.app/api?username=DisguisedOwI&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=DisguisedOwI&theme=catppuccin_mocha&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=DisguisedOwI&theme=catppuccin_mocha&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-## 🖥️ Coding Activity  
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
